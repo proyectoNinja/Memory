@@ -1,7 +1,7 @@
 # Memory
 
 ##Tools
-http://getbootstrap.com/ 
+http://getbootstrap.com/ /n
 https://reactjs.net/
 https://angular.io/
 https://nodejs.org/en/  
