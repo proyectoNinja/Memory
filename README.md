@@ -20,3 +20,5 @@ https://angular.io/docs/ts/latest/guide/typescript-configuration.html#!#tsconfig
 https://angular.io/docs/ts/latest/guide/ngmodule.html
 
 https://angular.io/docs/ts/latest/tutorial/
+
+http://4dev.tech/2016/03/login-screen-and-authentication-with-angular2/
